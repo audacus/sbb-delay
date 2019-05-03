@@ -1,14 +1,14 @@
 [
     {
-	    "from": "Solothurn",
-	    "to": "Aarau",
-	    "time": "07:01",
+        "from": "Solothurn",
+        "to": "Aarau",
+        "time": "07:01",
         "lastDelay": null
     },
     {
-	    "from": "Aarau",
-	    "to": "Solothurn",
-	    "time": "17:29",
+        "from": "Aarau",
+        "to": "Solothurn",
+        "time": "17:29",
         "lastDelay": null
     }
 ]

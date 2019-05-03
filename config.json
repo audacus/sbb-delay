@@ -1,8 +1,8 @@
 [
   {
-    "from": "Dübendorf",
-    "to": "Zürich Höschgasse",
-    "time": "09:21",
+    "from": "Solothurn",
+    "to": "Aarau",
+    "time": "07:01",
     "weekdays": [
       "mon",
       "tue",
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "from": "Zürich Höschgasse",
-    "to": "Dübendorf",
-    "time": "18:50",
+    "from": "Aarau",
+    "to": "Solothurn",
+    "time": "17:29",
     "weekdays": [
       "mon",
       "tue",
@@ -23,5 +23,5 @@
       "fri"
     ]
   }
- 
+
 ]

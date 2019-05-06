@@ -4,11 +4,21 @@
         "to": "Aarau",
         "time": "07:01",
         "lastDelay": null
+    },{
+        "from": "Solothurn",
+        "to": "Aarau",
+        "time": "07:34",
+        "lastDelay": null
     },
     {
         "from": "Aarau",
         "to": "Solothurn",
         "time": "17:29",
+        "lastDelay": null
+    },{
+        "from": "Aarau",
+        "to": "Solothurn",
+        "time": "17:46",
         "lastDelay": null
     }
 ]

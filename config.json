@@ -10,6 +10,17 @@
       "thu",
       "fri"
     ]
+  },{
+    "from": "Solothurn",
+    "to": "Aarau",
+    "time": "07:34",
+    "weekdays": [
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "fri"
+    ]
   },
   {
     "from": "Aarau",
@@ -22,6 +33,17 @@
       "thu",
       "fri"
     ]
+  },{
+    "from": "Aarau",
+    "to": "Solothurn",
+    "time": "17:46",
+    "weekdays": [
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "fri"
+    ]
   }
-
 ]
+
